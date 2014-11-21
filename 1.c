@@ -1,3 +1,5 @@
+//find the sum of all multiples of 3 and 5 below 1000
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
