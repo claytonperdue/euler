@@ -1,3 +1,6 @@
+//find the largest product of two three-digit numbers that is also palindromic (reads the same backwards and forwards)
+//done without string.h as a refresher
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
