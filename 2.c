@@ -1,3 +1,5 @@
+//find the sum of all even fibonacci numbers below 4,000,000
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
