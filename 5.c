@@ -5,14 +5,14 @@
 int main(int argc, char *argv[])
 {
   int i;
-  int j = 19;
+  int j = 0;
   int smallest = 0;
   
   while(smallest == 0)
   {
-    j++;
+    j += 20;
     smallest = j;
-    for(i = 1; i <= 20; i++)
+    for(i = 2; i <= 20; i++)
     {
       if(j % i) smallest = 0;
     }
